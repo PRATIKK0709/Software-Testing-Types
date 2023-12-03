@@ -16,9 +16,7 @@ This repository provides an overview of different types of software testing to h
    - [8. Usability Testing](#8-usability-testing)
    - [9. Compatibility Testing](#9-compatibility-testing)
    - [10. Exploratory Testing](#10-exploratory-testing)
-3. [Getting Started](#getting-started)
-4. [Contribution](#contribution)
-5. [License](#license)
+
 
 ## Introduction
 
